@@ -1,0 +1,697 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_100_20251008_105355.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_100_20251008_105355.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_101_20251008_105003.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_101_20251008_105003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_102_20251008_105858.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_102_20251008_105858.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_103_20251008_105417.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_103_20251008_105417.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_104_20251008_105927.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_104_20251008_105927.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_105_20251008_105935.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_105_20251008_105935.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_106_20251008_105122.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_106_20251008_105122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_107_20251008_105128.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_107_20251008_105128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_108_20251008_105338.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_108_20251008_105338.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_109_20251008_104925.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_109_20251008_104925.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_10_20251007_203326.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_10_20251007_203326.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_110_20251008_105627.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_110_20251008_105627.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_111_20251008_105943.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_111_20251008_105943.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_112_20251008_104639.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_112_20251008_104639.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_113_20251008_104028.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_113_20251008_104028.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_114_20251008_104050.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_114_20251008_104050.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_115_20251008_104128.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_115_20251008_104128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_116_20251008_104438.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_116_20251008_104438.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_117_20251008_105710.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_117_20251008_105710.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_118_20251008_105555.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_118_20251008_105555.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_119_20251008_105329.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_119_20251008_105329.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_11_20251007_203323.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_11_20251007_203323.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_120_20251008_105347.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_120_20251008_105347.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_121_20251008_110243.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_121_20251008_110243.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_122_20251008_110004.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_122_20251008_110004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_123_20251008_110559.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_123_20251008_110559.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_124_20251008_110544.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_124_20251008_110544.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_125_20251008_110417.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_125_20251008_110417.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_126_20251008_110041.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_126_20251008_110041.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_127_20251008_110500.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_127_20251008_110500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_128_20251008_110027.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_128_20251008_110027.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_129_20251008_110107.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_129_20251008_110107.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_12_20251007_203330.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_12_20251007_203330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_130_20251008_105211.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_130_20251008_105211.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_131_20251008_105512.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_131_20251008_105512.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_132_20251008_104834.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_132_20251008_104834.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_133_20251008_104938.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_133_20251008_104938.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_134_20251008_104828.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_134_20251008_104828.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_135_20251008_110126.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_135_20251008_110126.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_136_20251008_110135.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_136_20251008_110135.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_137_20251008_105604.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_137_20251008_105604.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_138_20251008_105532.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_138_20251008_105532.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_139_20251008_105759.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_139_20251008_105759.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_13_20251007_211240.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_13_20251007_211240.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_140_20251008_110514.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_140_20251008_110514.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_141_20251008_104647.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_141_20251008_104647.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_142_20251008_110525.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_142_20251008_110525.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_143_20251008_110354.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_143_20251008_110354.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_144_20251008_110409.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_144_20251008_110409.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_145_20251008_110016.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_145_20251008_110016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_146_20251008_105914.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_146_20251008_105914.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_147_20251008_102930.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_147_20251008_102930.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_148_20251008_110425.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_148_20251008_110425.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_149_20251008_110321.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_149_20251008_110321.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_14_20251007_211246.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_14_20251007_211246.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_150_20251008_110300.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_150_20251008_110300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_151_20251008_104253.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_151_20251008_104253.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_152_20251008_102942.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_152_20251008_102942.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_153_20251008_110310.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_153_20251008_110310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_154_20251008_105055.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_154_20251008_105055.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_155_20251008_105504.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_155_20251008_105504.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_156_20251008_110401.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_156_20251008_110401.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_157_20251008_105813.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_157_20251008_105813.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_158_20251008_105751.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_158_20251008_105751.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_159_20251008_105144.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_159_20251008_105144.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_15_20251007_220524.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_15_20251007_220524.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_160_20251008_105101.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_160_20251008_105101.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_161_20251008_111230.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_161_20251008_111230.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_162_20251008_111455.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_162_20251008_111455.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_163_20251008_145717.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_163_20251008_145717.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_164_20251008_145641.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_164_20251008_145641.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_165_20251010_091841.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_165_20251010_091841.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_166_20251010_091748.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_166_20251010_091748.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_167_20251010_091701.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_167_20251010_091701.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_16_20251007_220517.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_16_20251007_220517.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_17_20251007_221137.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_17_20251007_221137.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_18_20251007_221104.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_18_20251007_221104.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_19_20251007_221111.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_19_20251007_221111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_1_20251007_175255.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_1_20251007_175255.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_20_20251007_221050.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_20_20251007_221050.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_21_20251007_221117.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_21_20251007_221117.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_22_20251007_221057.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_22_20251007_221057.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_23_20251007_224313.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_23_20251007_224313.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_24_20251008_105648.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_24_20251008_105648.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_25_20251007_224431.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_25_20251007_224431.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_26_20251007_224440.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_26_20251007_224440.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_27_20251007_224322.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_27_20251007_224322.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_28_20251007_224331.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_28_20251007_224331.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_29_20251007_224249.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_29_20251007_224249.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_30_20251007_224254.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_30_20251007_224254.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_31_20251008_082817.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_31_20251008_082817.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_32_20251007_224420.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_32_20251007_224420.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_33_20251007_224400.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_33_20251007_224400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_34_20251007_224157.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_34_20251007_224157.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_35_20251008_081821.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_35_20251008_081821.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_36_20251007_224340.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_36_20251007_224340.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_37_20251007_224347.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_37_20251007_224347.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_38_20251007_224410.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_38_20251007_224410.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_39_20251007_224303.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_39_20251007_224303.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_3_20251007_195952.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_3_20251007_195952.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_40_20251008_082828.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_40_20251008_082828.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_41_20251007_224233.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_41_20251007_224233.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_42_20251007_224214.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_42_20251007_224214.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_43_20251007_224132.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_43_20251007_224132.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_44_20251007_224223.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_44_20251007_224223.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_45_20251007_224109.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_45_20251007_224109.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_46_20251007_224030.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_46_20251007_224030.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_47_20251007_224141.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_47_20251007_224141.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_48_20251007_224037.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_48_20251007_224037.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_49_20251007_224047.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_49_20251007_224047.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_4_20251007_200549.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_4_20251007_200549.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_50_20251007_224238.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_50_20251007_224238.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_51_20251007_224051.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_51_20251007_224051.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_51_20251007_224059.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_51_20251007_224059.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_52_20251007_224116.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_52_20251007_224116.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_53_20251007_224148.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_53_20251007_224148.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_54_20251007_224227.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_54_20251007_224227.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_55_20251007_224152.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_55_20251007_224152.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_56_20251008_082741.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_56_20251008_082741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_57_20251008_104352.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_57_20251008_104352.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_58_20251008_082725.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_58_20251008_082725.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_59_20251008_082751.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_59_20251008_082751.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_5_20251007_200540.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_5_20251007_200540.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_60_20251008_082757.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_60_20251008_082757.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_61_20251008_082809.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_61_20251008_082809.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_62_20251008_082854.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_62_20251008_082854.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_63_20251008_082823.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_63_20251008_082823.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_64_20251008_082839.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_64_20251008_082839.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_65_20251008_082833.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_65_20251008_082833.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_66_20251008_082925.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_66_20251008_082925.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_67_20251008_082917.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_67_20251008_082917.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_68_20251008_082904.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_68_20251008_082904.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_69_20251008_082911.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_69_20251008_082911.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_6_20251007_200651.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_6_20251007_200651.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_70_20251008_104510.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_70_20251008_104510.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_71_20251008_103205.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_71_20251008_103205.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_72_20251008_110339.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_72_20251008_110339.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_73_20251008_105038.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_73_20251008_105038.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_74_20251008_105045.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_74_20251008_105045.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_75_20251008_105220.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_75_20251008_105220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_76_20251008_105231.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_76_20251008_105231.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_77_20251008_104007.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_77_20251008_104007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_78_20251008_104017.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_78_20251008_104017.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_79_20251008_104616.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_79_20251008_104616.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_7_20251007_200824.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_7_20251007_200824.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_80_20251008_104400.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_80_20251008_104400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_81_20251008_104516.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_81_20251008_104516.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_82_20251008_104417.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_82_20251008_104417.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_83_20251008_104446.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_83_20251008_104446.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_84_20251008_104525.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_84_20251008_104525.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_85_20251008_104309.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_85_20251008_104309.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_86_20251008_105906.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_86_20251008_105906.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_87_20251008_104144.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_87_20251008_104144.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_87_20251008_104241.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_87_20251008_104241.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_88_20251008_104106.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_88_20251008_104106.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_89_20251008_104119.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_89_20251008_104119.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_8_20251007_202958.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_8_20251007_202958.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_90_20251008_095406.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_90_20251008_095406.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_91_20251008_104318.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_91_20251008_104318.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_92_20251008_104327.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_92_20251008_104327.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_93_20251008_103016.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_93_20251008_103016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_94_20251008_104426.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_94_20251008_104426.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_95_20251008_104339.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_95_20251008_104339.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_96_20251008_103154.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_96_20251008_103154.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_97_20251008_104659.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_97_20251008_104659.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_98_20251008_104737.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_98_20251008_104737.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_99_20251008_104951.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_99_20251008_104951.jpg"
+    },
+    {
+      "Id": "C:\\Users\\willi\\RiderProjects\\MyDiscgolfDiscs\\wwwroot\\images\\disc_9_20251007_203318.jpg",
+      "PackagePath": "staticwebassets\\images\\disc_9_20251007_203318.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyDiscgolfDiscs.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyDiscgolfDiscs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MyDiscgolfDiscs.props",
+      "PackagePath": "build\\MyDiscgolfDiscs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MyDiscgolfDiscs.props",
+      "PackagePath": "buildMultiTargeting\\MyDiscgolfDiscs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MyDiscgolfDiscs.props",
+      "PackagePath": "buildTransitive\\MyDiscgolfDiscs.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

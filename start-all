@@ -1,0 +1,82 @@
+#!/bin/bash
+
+echo "Starting My Disc Golf Collection App..."
+echo
+
+# Function to check if a port is in use
+check_port() {
+    local port=$1
+    if netstat -an 2>/dev/null | grep -q ":$port .*LISTEN"; then
+        return 0  # Port is in use
+    else
+        return 1  # Port is free
+    fi
+}
+
+# Check if API is already running
+if check_port 5000; then
+    echo "API already running on port 5000"
+else
+    echo "Starting ASP.NET Core API..."
+    # Start API in background with Development environment
+    export ASPNETCORE_ENVIRONMENT=Development
+    dotnet run > api.log 2>&1 &
+    API_PID=$!
+    echo "API started with PID: $API_PID"
+    
+    # Wait for API to start and test connectivity
+    echo "Waiting for API to start..."
+    sleep 5
+    
+    # Test API connectivity
+    if curl -s -f http://localhost:5000/api/discs > /dev/null; then
+        echo "✅ API is responding"
+    else
+        echo "❌ API is not responding"
+    fi
+fi
+
+# Check if frontend is already running
+if check_port 5173; then
+    echo "Frontend already running on port 5173"
+else
+    echo "Starting Svelte Frontend..."
+    # Start frontend in background
+    cd client
+    npm run dev > ../frontend.log 2>&1 &
+    FRONTEND_PID=$!
+    echo "Frontend started with PID: $FRONTEND_PID"
+    cd ..
+fi
+
+echo
+echo "🚀 Both servers are now running!"
+echo "📱 Web App: http://localhost:5173"
+echo "🔧 API Docs: http://localhost:5000/swagger"
+echo
+echo "Press Ctrl+C to stop both servers"
+echo "Logs are saved to api.log and frontend.log"
+echo
+
+# Function to cleanup on exit
+cleanup() {
+    echo
+    echo "Stopping servers..."
+    if [ ! -z "$API_PID" ]; then
+        kill $API_PID 2>/dev/null
+        echo "API stopped"
+    fi
+    if [ ! -z "$FRONTEND_PID" ]; then
+        kill $FRONTEND_PID 2>/dev/null
+        echo "Frontend stopped"
+    fi
+    exit 0
+}
+
+# Trap Ctrl+C
+trap cleanup INT
+
+# Keep script running
+while true; do
+    sleep 1
+done
