@@ -1,0 +1,32 @@
+# C# / .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+.vs/
+.vscode/
+
+# Rider
+.idea/
+.rider/
+*.sln.iml
+
+# Node.js
+client/node_modules/
+npm-debug.log
+yarn-error.log
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+frontend.log
+api.log
+
+# OS
+.DS_Store
+Thumbs.db
