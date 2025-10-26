@@ -18,9 +18,10 @@ npm-debug.log
 yarn-error.log
 
 # Databases
-*.db
-*.sqlite
-*.sqlite3
+# Uncomment to exclude database from git:
+# *.db
+# *.sqlite
+# *.sqlite3
 
 # Logs
 *.log
