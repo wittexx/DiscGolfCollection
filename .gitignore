@@ -31,3 +31,9 @@ api.log
 # OS
 .DS_Store
 Thumbs.db
+bin/
+obj/
+*.log
+*.db-shm
+*.db-wal
+export-data.bat
