@@ -17,6 +17,11 @@
     let loading = true;
     let error = '';
 
+    // Pagination
+    let currentPage = 1;
+    let itemsPerPage = 20;
+    let paginatedDiscs: Disc[] = [];
+
     // Form state
     let showForm = false;
     let editingDisc: Disc | null = null;
@@ -61,33 +66,33 @@
     function filterDiscs() {
         let result = discs;
 
-        // Filter by category
+
         if (selectedCategory !== 'all') {
             result = result.filter(disc => disc.category === selectedCategory);
         }
 
-        // Filter by bag status
+
         if (bagFilter === 'in-bag') {
             result = result.filter(disc => disc.inTheBag);
         } else if (bagFilter === 'not-in-bag') {
             result = result.filter(disc => !disc.inTheBag);
         }
 
-        // Filter by sale status
+     
         if (saleFilter === 'for-sale') {
             result = result.filter(disc => disc.forSale);
         } else if (saleFilter === 'not-for-sale') {
             result = result.filter(disc => !disc.forSale);
         }
 
-        // Filter by favorite status
+
         if (favoriteFilter === 'favorites') {
             result = result.filter(disc => disc.isFavorite);
         } else if (favoriteFilter === 'not-favorites') {
             result = result.filter(disc => !disc.isFavorite);
         }
 
-        // Filter by search query
+   
         if (searchQuery.trim()) {
             const query = searchQuery.toLowerCase();
             result = result.filter(disc => 
@@ -98,6 +103,33 @@
         }
 
         filteredDiscs = result;
+        currentPage = 1; // Reset to first page when filters change
+        updatePagination();
+    }
+
+    function updatePagination() {
+        const start = (currentPage - 1) * itemsPerPage;
+        const end = start + itemsPerPage;
+        paginatedDiscs = filteredDiscs.slice(start, end);
+    }
+
+    function goToPage(page: number) {
+        currentPage = page;
+        updatePagination();
+        // Scroll to top of disc grid
+        document.querySelector('.disc-grid')?.scrollIntoView({ behavior: 'smooth' });
+    }
+
+    function nextPage() {
+        if (currentPage < totalPages) {
+            goToPage(currentPage + 1);
+        }
+    }
+
+    function previousPage() {
+        if (currentPage > 1) {
+            goToPage(currentPage - 1);
+        }
     }
 
     function handleAddDisc() {
@@ -171,7 +203,6 @@
                 disc.forSale = true;
             }
             
-            // Update the discs array to trigger reactivity
             discs = [...discs];
             filterDiscs();
         }
@@ -190,7 +221,6 @@
                 disc.isFavorite = true;
             }
             
-            // Update the discs array to trigger reactivity
             discs = [...discs];
             filterDiscs();
         }
@@ -221,7 +251,6 @@
                 };
                 await apiService.updateDisc(editingDisc.id, cleanDiscData);
             } else {
-                // For new discs, just use the form data (no local properties)
                 await apiService.createDisc(discData);
             }
             await loadDiscs();
@@ -236,19 +265,23 @@
         showForm = false;
         editingDisc = null;
     }
-
-    // $: {
-    //     selectedCategory;
-    //     bagFilter;
-    //     saleFilter;
-    //     favoriteFilter;
-    //     searchQuery;
-    //     filterDiscs();
-    // }
-
+    
     $: bagCount = discs.filter(disc => disc.inTheBag).length;
     $: saleCount = discs.filter(disc => disc.forSale).length;
     $: favoriteCount = discs.filter(disc => disc.isFavorite).length;
+    $: totalPages = Math.ceil(filteredDiscs.length / itemsPerPage);
+    $: startItem = (currentPage - 1) * itemsPerPage + 1;
+    $: endItem = Math.min(currentPage * itemsPerPage, filteredDiscs.length);
+
+    // Update pagination when filters change
+    $: {
+        selectedCategory;
+        bagFilter;
+        saleFilter;
+        favoriteFilter;
+        searchQuery;
+        filterDiscs();
+    }
 
     // Dropdown options
     const categoryOptions = [
@@ -456,7 +489,7 @@
         </div>
     {:else}
         <div class="disc-grid">
-            {#each filteredDiscs as disc (disc.id)}
+            {#each paginatedDiscs as disc (disc.id)}
                 <DiscCard 
                     {disc} 
                     on:edit={handleEditDisc}
@@ -468,6 +501,37 @@
                 />
             {/each}
         </div>
+
+        {#if totalPages > 1}
+            <div class="pagination">
+                <button 
+                    class="pagination-btn" 
+                    on:click={previousPage} 
+                    disabled={currentPage === 1}
+                    title="Previous page"
+                >
+                    ← Previous
+                </button>
+                
+                <div class="page-info">
+                    <span class="page-numbers">
+                        Page {currentPage} of {totalPages}
+                    </span>
+                    <span class="item-range">
+                        Showing {startItem}-{endItem} of {filteredDiscs.length}
+                    </span>
+                </div>
+                
+                <button 
+                    class="pagination-btn" 
+                    on:click={nextPage} 
+                    disabled={currentPage === totalPages}
+                    title="Next page"
+                >
+                    Next →
+                </button>
+            </div>
+        {/if}
     {/if}
 
     <div class="stats">
@@ -608,6 +672,61 @@
 
     .dropdown-option.selected {
         padding-left: 2rem;
+    }
+
+    .pagination {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+        margin: 2rem 0;
+        padding: 1.5rem;
+        background: var(--bg-card);
+        border-radius: 12px;
+        box-shadow: 0 4px 8px var(--shadow);
+    }
+
+    .pagination-btn {
+        padding: 0.75rem 1.5rem;
+        background: linear-gradient(135deg, var(--accent-secondary), var(--accent-secondary-hover));
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-size: 1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        box-shadow: 0 2px 4px var(--shadow);
+    }
+
+    .pagination-btn:hover:not(:disabled) {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px var(--shadow-hover);
+    }
+
+    .pagination-btn:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+        background: var(--bg-secondary);
+        color: var(--text-secondary);
+    }
+
+    .page-info {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.25rem;
+    }
+
+    .page-numbers {
+        font-size: 1.125rem;
+        font-weight: 600;
+        color: var(--text-primary);
+    }
+
+    .item-range {
+        font-size: 0.875rem;
+        color: var(--text-secondary);
     }
 </style>
 
